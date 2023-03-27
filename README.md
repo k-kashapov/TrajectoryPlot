@@ -15,7 +15,7 @@ Run `Trajectory.py` in python3 or bash.
 
 ![Figure_1](https://user-images.githubusercontent.com/52855633/227819813-4666d391-8790-43e4-ad66-def81e0e5421.png)
 
-2) `dx/dt = y + 100x * sqrt(x^2 + y^2),  dy/dt = dx/dt = -x + 100y * sqrt(x^2 + y^2)`
+2) `dx/dt = y + 100x * sqrt(x^2 + y^2),  dy/dt = -x + 100y * sqrt(x^2 + y^2)`
 
 ![spirals](https://user-images.githubusercontent.com/52855633/227819956-848d221e-2594-41c7-bf38-2b99b11feaaf.png)
 

@@ -2,6 +2,8 @@
 Plots the solutions of differential equation in Python. Finds numerical solution with given time step. Trajectory starting points are picked randomly in a square of a given size.
 
 ## Setup
+Change functions `dxdt` and `dydt` to your preferred dx/dt and dy/dt.
+
 Set `draw_arrows` to `True` if you want arrows to be drawn at the end of the line. Arrow's direction corresponds with trajectory's.
 
 Some other parameters listed in program text can be changed. Give it a try.

@@ -1,11 +1,12 @@
 # TrajectoryPlot
 Plots the solutions of differential equation in Python. Finds numerical solution with given time step. Trajectory starting points are picked randomly in a square of a given size.
 
-## Usage
+## Setup
 Set `draw_arrows` to `True` if you want arrows to be drawn at the end of the line. Arrow's direction corresponds with trajectory's.
 
-Some other parameters can be changed too.
+Some other parameters listed in program text can be changed. Give it a try.
 
+## Usage
 Run `Trajectory.py` in python3 or bash.
 
 ## Examples
